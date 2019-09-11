@@ -3,7 +3,7 @@
     <string name="title">North American Museum of Taxidermy</string>
     <string name="description">Popular museum featuring an extensive collection of preserved specimens, native to North America</string>
     <string name="address">504 Main Street \nSan Diego, California 92123</string>
-    <string name="phone_number">(619) 543-1234</string>
+    <string name="phone_number">(619) 543–1234</string>
     <string name="email_address">guest_relations@namot.org</string>
     <string name="website_address">www.namot.org</string>
     <string name="hours">Mon-Fri: 10am-6pm\nSat-Sun: 11am-5pm</string>

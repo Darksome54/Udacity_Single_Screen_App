@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
     public void sendEmail_onClick(View view) {
         Intent emailIntent = new Intent(Intent.ACTION_SENDTO);
         emailIntent.setData(Uri.parse("mailto:guest_relations@namot.org"));
-        emailIntent.putExtra(emailIntent.EXTRA_SUBJECT, "Queries");
-        emailIntent.putExtra(emailIntent.EXTRA_TEXT, "Hi,\nmy name is ");
+        emailIntent.putExtra(Intent.EXTRA_SUBJECT, "Queries");
+        emailIntent.putExtra(Intent.EXTRA_TEXT, "Hi,\nmy name is ");
         if (emailIntent.resolveActivity(getPackageManager()) != null) {
             startActivity(emailIntent);
 
