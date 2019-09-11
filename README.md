@@ -15,4 +15,4 @@ Website
 <br>
 This app loosely follows the most current Material Design guidelines.
 <br>
-<img src="https://user-images.githubusercontent.com/38291329/61486597-ad3a3500-a958-11e9-9b28-0051b3bb35fd.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/38291329/64736164-e3022280-d49e-11e9-9844-14c2b422b0f3.png" width="15%"></img> 
